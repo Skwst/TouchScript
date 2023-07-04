@@ -20,7 +20,7 @@
     "url": "git://github.com/Skwst/TouchScript"
   },
   "author": {
-    "name": "Skwst",
+    "name": "Skwst"
   },
   "dependencies": {
     "com.unity.ide.rider": "3.0.18",
